@@ -8,9 +8,9 @@ The project implements the logic to load a file with information of vehicles and
 
 ## Installation / Deploy information
 - Installation of the project
-      
+      ```ruby
       mvn clean install
       mvn spring-boot:run
-
+      ```
 
 
