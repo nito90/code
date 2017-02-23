@@ -6,11 +6,18 @@ The project implements the logic to load a file with information of vehicles and
 - JDK 1.8 (Oracle)
 - Maven 3
 
-## Installation / Deploy information
-- Installation of the project
-      ```ruby
-      mvn clean install
-      mvn spring-boot:run
-      ```
+## Installation 
 
+```
+mvn clean install
+```
+## Deployment
+```
+mvn spring-boot:run
+```
+
+## Url to interact with Swagger
+```
+http://localhost:8080/swagger-ui.html
+```
 
