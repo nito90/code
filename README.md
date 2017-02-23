@@ -21,3 +21,20 @@ mvn spring-boot:run
 http://localhost:8080/swagger-ui.html
 ```
 
+## The format of the file should be
+
+```json
+{
+    "Search": {
+        "VehicleList": [
+            {
+                "sipp": "CWMR",
+                "name": "Kia Ceed Estate",
+                "price": 311.03,
+                "supplier": "Alamo",
+                "rating": 7.8
+            }
+        ]
+    }
+}
+```
