@@ -32,7 +32,7 @@ public class SwaggerConfig {
 		return new Docket(DocumentationType.SWAGGER_2)
 				.apiInfo(new ApiInfoBuilder()
 						.title("Toulios Exercise")
-						.description("This api is for RentalCars Test exercise.")
+						.description("This api is for a test exercise.")
 						.contact("toulios90@gmail.com")
 						.build())
 				.select()
